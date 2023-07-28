@@ -1,0 +1,2 @@
+# nuxt3-legacy
+nuxt3-legacy 这小demo是为了解决低版本浏览器不兼容nuxt3项目而创建的，本项目展示了在低版本浏览器chrome69兼容所遇到的所有问题
